@@ -1,6 +1,7 @@
-A very important paper on generative molecular design and property prediction
+A very important paper on generative molecular design and property prediction. A comparison to pacman would be beneficial.
 Large-scale chemical language representations capture molecular structure and properties - https://www.nature.com/articles/s42256-022-00580-7
 Blog post - https://research.ibm.com/blog/molecular-transformer-discovery
+Talk - https://www.youtube.com/watch?v=zr8oN-l40Dg
 
 
 
