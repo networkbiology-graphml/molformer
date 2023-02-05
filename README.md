@@ -1,3 +1,9 @@
+A very important paper on generative molecular design and property prediction
+Large-scale chemical language representations capture molecular structure and properties - https://www.nature.com/articles/s42256-022-00580-7
+Blog post - https://research.ibm.com/blog/molecular-transformer-discovery
+
+
+
 This repository provides pytorch source code, and data associated with our Nature Machine Intelligence _(10.1038/s42256-022-00580-7)_ publication, "Large-Scale Chemical Language Representations Capture Molecular Structure and Properties".
 
 Paper: [NMI Link](https://rdcu.be/c12D0) / [Arxiv Link](https://arxiv.org/abs/2106.09553)
